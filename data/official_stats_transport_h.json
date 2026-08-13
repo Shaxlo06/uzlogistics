@@ -1,0 +1,23 @@
+{
+  "indicator_uz": "Ro'yxatdan o'tgan korxona va tashkilotlar soni (yillik) — H: Tashish va saqlash",
+  "indicator_code": "1.09.02.0220",
+  "classifier": "IFUT-2 (OKED-2), bo'lim H — Tashish va saqlash / Transportation and storage",
+  "source": "O'zbekiston Respublikasi Milliy statistika qo'mitasi (Yagona davlat registri, KTYADR)",
+  "note": "1-yanvar holatiga, dehqon va fermer xo'jaliklarisiz",
+  "unit": "birlik (dona)",
+  "data": {
+    "2014": 9303,
+    "2015": 9921,
+    "2016": 10613,
+    "2017": 11462,
+    "2018": 12514,
+    "2019": 13856,
+    "2020": 16096,
+    "2021": 18211,
+    "2022": 19082,
+    "2023": 21688,
+    "2024": 24700,
+    "2025": 25818,
+    "2026": 23935
+  }
+}
