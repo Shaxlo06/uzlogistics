@@ -1,7 +1,7 @@
 import { prisma } from "@/lib/prisma";
 import { MapPageClient } from "@/components/map/MapPageClient";
 
-export const metadata = { title: "Xarita — UzLogistics" };
+export const metadata = { title: "Xarita — uzlogisticsnet" };
 
 export default async function MapPage() {
   const companies = await prisma.company.findMany({

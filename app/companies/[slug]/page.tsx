@@ -8,7 +8,7 @@ import { MapView } from "@/components/map/MapView";
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const company = await prisma.company.findUnique({ where: { slug } });
-  return { title: company ? `${company.name} — UzLogistics` : "Kompaniya topilmadi" };
+  return { title: company ? `${company.name} — uzlogisticsnet` : "Kompaniya topilmadi" };
 }
 
 export default async function CompanyProfilePage({ params }: { params: Promise<{ slug: string }> }) {

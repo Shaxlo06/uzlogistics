@@ -13,7 +13,7 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "UzLogistics — O'zbekiston logistika tizimlarini raqamli transformatsiyalash",
+  title: "uzlogisticsnet — O'zbekiston logistika tizimlarini raqamli transformatsiyalash",
   description:
     "O'zbekiston logistika tizimlarini raqamli transformatsiyalash va real vaqt monitoring platformasi.",
 };

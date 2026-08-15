@@ -1,4 +1,4 @@
-# UzLogistics
+# uzlogisticsnet
 
 O'zbekiston logistika tizimlarini raqamli transformatsiyalash va real vaqt monitoring
 platformasi — ilmiy-amaliy tadqiqot natijalarini namoyish etuvchi vitrina + logistika

@@ -1,7 +1,7 @@
 import { Cpu } from "lucide-react";
 import { ResearchLayout } from "@/components/research/ResearchLayout";
 
-export const metadata = { title: "Raqamli transformatsiya — UzLogistics" };
+export const metadata = { title: "Raqamli transformatsiya — uzlogisticsnet" };
 
 export default function Page() {
   return (

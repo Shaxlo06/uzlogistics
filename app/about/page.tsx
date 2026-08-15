@@ -1,4 +1,4 @@
-export const metadata = { title: "Loyiha haqida — UzLogistics" };
+export const metadata = { title: "Loyiha haqida — uzlogisticsnet" };
 
 export default function AboutPage() {
   return (

@@ -20,7 +20,7 @@ import { prisma } from "../lib/prisma";
 const BASE_URL = "https://www.goldenpages.uz/rubrics/?Id=4676";
 const TOTAL_PAGES = 13;
 const REQUEST_DELAY_MS = 1500;
-const USER_AGENT = "UzLogistics-Research-Bot/1.0 (+https://github.com/; educational/research use)";
+const USER_AGENT = "uzlogisticsnet-Research-Bot/1.0 (+https://github.com/; educational/research use)";
 
 type ScrapedCompany = {
   name: string;

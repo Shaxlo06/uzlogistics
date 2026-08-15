@@ -24,7 +24,7 @@ export function Footer() {
         </p>
         <p className="mt-1 max-w-2xl text-xs text-muted">{t("footer.disclaimer")}</p>
         <div className="mt-6 flex flex-wrap items-center justify-between gap-2 border-t border-[var(--border-hairline)] pt-4 text-xs text-muted">
-          <span>© {year} UzLogistics. {t("footer.rights")}</span>
+          <span>© {year} uzlogisticsnet. {t("footer.rights")}</span>
           <Link href="/about" className="hover:text-brand-blue">
             {t("nav.about")}
           </Link>

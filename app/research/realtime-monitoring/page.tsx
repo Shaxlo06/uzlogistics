@@ -1,7 +1,7 @@
 import { Radio } from "lucide-react";
 import { ResearchLayout } from "@/components/research/ResearchLayout";
 
-export const metadata = { title: "Real vaqt monitoring — UzLogistics" };
+export const metadata = { title: "Real vaqt monitoring — uzlogisticsnet" };
 
 export default function Page() {
   return (

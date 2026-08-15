@@ -1,7 +1,7 @@
 import { Database } from "lucide-react";
 import { ResearchLayout } from "@/components/research/ResearchLayout";
 
-export const metadata = { title: "Boshqaruv modeli — UzLogistics" };
+export const metadata = { title: "Boshqaruv modeli — uzlogisticsnet" };
 
 export default function Page() {
   return (

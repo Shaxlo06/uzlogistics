@@ -3,7 +3,7 @@ import { getSession } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
 import { AdminCompaniesClient } from "@/components/admin/AdminCompaniesClient";
 
-export const metadata = { title: "Admin: kompaniyalar — UzLogistics" };
+export const metadata = { title: "Admin: kompaniyalar — uzlogisticsnet" };
 
 export default async function AdminCompaniesPage() {
   const session = await getSession();

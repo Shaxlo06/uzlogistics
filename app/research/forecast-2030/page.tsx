@@ -1,7 +1,7 @@
 import { TrendingUp } from "lucide-react";
 import { ResearchLayout } from "@/components/research/ResearchLayout";
 
-export const metadata = { title: "2030 prognozi — UzLogistics" };
+export const metadata = { title: "2030 prognozi — uzlogisticsnet" };
 
 export default function Page() {
   return (

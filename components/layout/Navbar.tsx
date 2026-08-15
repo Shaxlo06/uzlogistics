@@ -79,7 +79,7 @@ export function Navbar() {
           {/* Logo */}
           <Link href="/" className="group flex items-center gap-2">
             <Boxes className="h-6 w-6 shrink-0 text-brand-blue transition-transform duration-200 group-hover:scale-110" aria-hidden />
-            <span className="text-sm font-bold text-brand-navy dark:text-white sm:text-base">UzLogistics</span>
+            <span className="text-sm font-bold text-brand-navy dark:text-white sm:text-base">uzlogisticsnet</span>
           </Link>
 
           {/* Desktop nav */}

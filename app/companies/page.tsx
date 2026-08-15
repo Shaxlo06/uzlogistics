@@ -3,7 +3,7 @@ import { prisma } from "@/lib/prisma";
 import { CompanyFilters } from "@/components/companies/CompanyFilters";
 import { CompanyCard } from "@/components/companies/CompanyCard";
 
-export const metadata = { title: "Kompaniyalar katalogi — UzLogistics" };
+export const metadata = { title: "Kompaniyalar katalogi — uzlogisticsnet" };
 
 const PAGE_SIZE = 24;
 
